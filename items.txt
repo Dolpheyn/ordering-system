@@ -1,0 +1,3 @@
+Lenovo X240,A laptop from lenovo,4200.00
+Lenovo Carbon X1,A laptop from lenovo,14200.00
+Iphone 11,A product from Apple,9000.00
